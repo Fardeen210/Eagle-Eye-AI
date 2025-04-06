@@ -23,7 +23,8 @@ YOLOv8 + OpenAI Vision: YOLO detects individuals and their actions; OpenAI Visio
 Keyword Filtering: Summaries are filtered using crime-specific keywords; parallel logic also checks for alert description matches.
 
 # Workflow:
-![image](https://github.com/user-attachments/assets/5e91a932-ef39-43dc-8046-6abea995aa0d)
+
+![hackathonflow drawio (1)](https://github.com/user-attachments/assets/22962fa2-5747-4b43-8245-1a1860c4b354)
 
 
 # Results & Performance
