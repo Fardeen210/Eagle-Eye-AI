@@ -6,7 +6,10 @@ from streamlit.components.v1 import html
 
 # Set page layout
 st.set_page_config(page_title="🎬 Video Analysis", layout="wide")
-st.title("🎥 CCTV footage with AI Analysis")
+st.title("🎥 Eagle Eye AI Analysis")
+
+st.sidebar.header("🔍 Filters")
+show_only_threats = st.sidebar.checkbox("Show only threats", value=False)
 
 # Folder where videos are stored
 VIDEO_DIR = "database"
@@ -82,7 +85,7 @@ else:
     }
     .summary-box .alert {
         margin-top: 10px;
-        color: red;
+        color: black;
         font-weight: bold;
     }
 </style>

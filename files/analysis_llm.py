@@ -123,7 +123,7 @@ def save_to_csv(video_title, image_summaries, overall_summary, alerts, csv_file=
 
 # === MAIN ===
 base_folder = "database/extrac_frames"
-top_folders = get_top_video_folders(base_folder, top_n=5)
+top_folders = get_top_video_folders(base_folder, top_n=10)
 
 for folder_name in top_folders:
     folder_path = os.path.join(base_folder, folder_name)

@@ -57,11 +57,10 @@ class FrameExtractor:
         cap.release()
         print(f"[DONE] Extracted {saved_count} frames from '{video_name}' into '{output_dir}'")
 
-
 if __name__ == "__main__":
     custom_intervals = {
         "database/normal video": 3,   # Every 1 second
-        "suspicious_car": 0.5,  # Every 0.5 seconds
+        "suspicious_car": 1,  # Every 0.5 seconds
     }
 
     extractor = FrameExtractor(
