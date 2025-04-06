@@ -21,7 +21,10 @@ Datasets: 15 CCTV videos simulating different public safety scenarios (e.g., the
 Frame Capture: Adaptive strategy — default interval every 0.25 seconds, configurable per alert context. Allows focus on critical video segments with optimized frame density.
 YOLOv8 + OpenAI Vision: YOLO detects individuals and their actions; OpenAI Vision summarizes the scene.
 Keyword Filtering: Summaries are filtered using crime-specific keywords; parallel logic also checks for alert description matches.
-Workflow:
+
+# Workflow:
+![image](https://github.com/user-attachments/assets/5e91a932-ef39-43dc-8046-6abea995aa0d)
+
 
 # Results & Performance
 Visual Outputs: Frames with bounding boxes, keyword-tagged summaries, AI-generated descriptions.
