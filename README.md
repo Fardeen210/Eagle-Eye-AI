@@ -24,7 +24,8 @@ Keyword Filtering: Summaries are filtered using crime-specific keywords; paralle
 
 # Workflow:
 
-![hackathonflow drawio (1)](https://github.com/user-attachments/assets/22962fa2-5747-4b43-8245-1a1860c4b354)
+![hackathonflow](https://github.com/user-attachments/assets/0de85c36-6ae7-4c66-8bed-78306d917b12)
+
 
 
 # Results & Performance
