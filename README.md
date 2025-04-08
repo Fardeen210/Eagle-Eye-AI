@@ -50,4 +50,4 @@ Eagle Eye AI transforms traditional surveillance by turning silent video into ac
 Links:
 GitHub : GitHub - Fardeen210/Eagle-Eye-AI: AI powered real time crime detection.
 Google Docs: EagleEye AI
-Live Demo: https://teams.microsoft.com/l/message/19:e355963b21384a51a665dc41eeeceefd@thread.v2/1743960167920?context=%7B%22contextType%22%3A%22chat%22%7D
+Live Demo: https://fardeen210-eagle-eye-ai-streamlitapp-cebf0r.streamlit.app/
